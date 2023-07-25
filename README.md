@@ -32,6 +32,12 @@ L'objectif du back était de mettre à disposition du front des endpoints API po
 - React en front-end
 - Trello pour l'organisation et le suivi du projet
 
+![Capture d’écran 2023-07-25 à 14 23 12](https://github.com/farah-9/projet-collectif---plateforme-de-vente-de-meubles-meublea/assets/119256395/201e2a9a-3b32-49f6-ab5b-cc07ac58cb17)
+
+![Capture d’écran 2023-07-25 à 14 24 00](https://github.com/farah-9/projet-collectif---plateforme-de-vente-de-meubles-meublea/assets/119256395/fa4cfdc5-2e72-4e0a-9a9c-d752f85648c0)
+
+
+
 
 ## Commande du site de la part de Fleury :
 
