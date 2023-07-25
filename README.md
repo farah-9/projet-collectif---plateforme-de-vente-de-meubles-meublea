@@ -1,5 +1,8 @@
 # Plateforme de meuble - Meublea
 
+![image](https://github.com/farah-9/projet-collectif---plateforme-de-vente-de-meubles-meublea/assets/119256395/308be09f-9b85-4afb-aba6-3e99dba7ba7e)
+
+
 ### Durée du projet : 7 jours (deux semaines)
 
 Ce projet, basée sur une commande fictive d'une cliente tout aussi fictive, a été fait en deux groupes de 4 personnes. Un groupe sur le front la première semaine et qui passe au back à la deuxième et inversement pour l'autre groupe.
