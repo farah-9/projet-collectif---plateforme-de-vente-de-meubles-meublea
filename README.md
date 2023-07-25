@@ -5,7 +5,7 @@
 
 ### Durée du projet : 7 jours (deux semaines)
 
-Ce projet, basée sur une commande fictive d'une cliente tout aussi fictive, a été fait en deux groupes de 4 personnes. Un groupe sur le front la première semaine et qui passe au back à la deuxième et inversement pour l'autre groupe.
+Ce projet, basé sur une commande fictive d'une cliente tout aussi fictive, a été fait en deux groupes de 4 personnes. Un groupe sur le front la première semaine et qui passe au back à la deuxième et inversement pour l'autre groupe.
 
 Un des objectifs de ce projet était donc de produire un code compréhensible et documenté afin que la passation se passe pour le mieux. L'organisation ainsi que la communication inter-équipe ont été primordiales.
 
